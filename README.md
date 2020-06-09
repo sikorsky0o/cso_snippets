@@ -20,7 +20,7 @@
 Формат авторства - `Фамилия И. О.`
 -----------
 
-[Наименование и автор](https://github.com/sikorsky0o/cso_snippets/blob/master/name%26author.png)
+![Наименование и автор](https://github.com/sikorsky0o/cso_snippets/blob/master/name%26author.png)
 
 Для публикации материалов на сайте необходимо использовать текстовый редактор. Например: [atom](https://atom.io/)
 
