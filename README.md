@@ -10,8 +10,11 @@
 
 Редактирование материалов
 -----------
-[Инфоблок с презентациями](https://csoprocom.com.ua/bitrix/admin/iblock_list_admin.php?IBLOCK_ID=29&type=aspro_scorp_content&lang=ru&find_section_section=0) 
+[Инфоблок с презентациями](https://csoprocom.com.ua/bitrix/admin/iblock_list_admin.php?IBLOCK_ID=29&type=aspro_scorp_content&lang=ru&find_section_section=0)
+
 Код материала необходимо вставлять во вкладке `Подробно` с включенным параметром `HTML`
+
+![страница редактирования материала](https://github.com/sikorsky0o/cso_snippets/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202020-06-09%20%D0%B2%2011.57.17.png)
 
 Для публикации материалов на сайте необходимо использовать текстовый редактор. Например: [atom](https://atom.io/)
 
